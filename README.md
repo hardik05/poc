@@ -23,11 +23,7 @@ A collection of public Proof of Concepts (PoCs), vulnerability research, reprodu
 
 ## 📁 Repository Structure
 
-```text
-.
-├── README.md
-└── (PoC modules and research artifacts)
-```
+- [`cve-2026-112621`](cve-2026-112621/): Apple LinkPresentation preview testbed (`index.html`, `sample.heic`, documentation).
 
 ---
 
