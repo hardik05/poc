@@ -10,6 +10,8 @@ A collection of public Proof of Concepts (PoCs), vulnerability research, reprodu
 - **Website**: [fuzzing.in](https://fuzzing.in)
 - **Twitter / X**: [@hardik05](https://x.com/hardik05)
 
+> 🤖 *Note: Research tooling, testbeds, and documentation in this repository are developed with AI assistance.*
+
 ---
 
 ## 🎯 Focus Areas
